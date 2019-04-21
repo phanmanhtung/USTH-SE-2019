@@ -1,0 +1,34 @@
+{% extends 'main/header.html' %}
+
+{% block content %}
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-6">
+            <div class="well well-sm">
+                <div class="row">
+                    <div class="col-sm-6 col-md-4">
+                    </div>
+                    <div class="col-sm-6 col-md-8">
+                        <h4>
+                            Username: {{ user.username }}</h4>
+                        <small><cite title="San Francisco, USA">{{ user.phone_number }}<i class="glyphicon glyphicon-map-marker">
+                        </i></cite></small>
+                        <p>
+                            <i class="glyphicon glyphicon-envelope">Email: {{ user.email }}
+			    <br>
+   			    </br>
+                            <i class="glyphicon glyphicon-gift"></i>{{ user.address }}</p>
+                        <!-- Split button -->
+                        <div class="btn-group">
+                            <ul class="dropdown-menu" role="menu">
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock content %}
