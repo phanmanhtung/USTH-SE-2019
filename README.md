@@ -1,5 +1,3 @@
-<div>
-  
 # USTH-SE-2019
 <p>Software Engineering at USTH, Spring 2019</p>
 <p>Introduction Slides:
@@ -14,4 +12,3 @@ Member in the project:</p>
 <li>Phan Manh Tung - USTHBI8-160 - Roles: Developer, Scrum Master and Product User</li>
 </ol>
 <p>Description about the project: Our project aim is to create a website for selling art product</p>
-</div>
