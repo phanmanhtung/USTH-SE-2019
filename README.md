@@ -12,3 +12,4 @@ Member in the project:</p>
 <li>Phan Manh Tung - USTHBI8-160 - Roles: Developer, Scrum Master and Product User</li>
 </ol>
 <p>Description about the project: Our project aim is to create a website for selling art product</p>
+<p>Deployment link: http://phanmanhtung.pythonanywhere.com/</p>
